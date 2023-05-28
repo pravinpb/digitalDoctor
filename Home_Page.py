@@ -11,6 +11,7 @@ from streamlit.source_util import _on_pages_changed, get_pages
 from st_clickable_images import clickable_images
 
 
+# test2
 st.set_page_config(page_title="Home_Page",page_icon="💫")
 
 hide_st_style = """
