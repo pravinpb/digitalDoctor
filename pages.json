@@ -1,0 +1,62 @@
+{
+    "45b18cf75fb206c6a708d3e320b5bc35": {
+        "page_script_hash": "45b18cf75fb206c6a708d3e320b5bc35",
+        "page_name": "Home_Page",
+        "icon": "",
+        "script_path": "D:\\DigitalDoctor\\Home_Page.py"
+    },
+    "66b88319b4b1bae4a8d681b12e0489b6": {
+        "page_script_hash": "66b88319b4b1bae4a8d681b12e0489b6",
+        "page_name": "AIERG",
+        "icon": "",
+        "script_path": "D:\\DigitalDoctor\\pages\\AIERG.py"
+    },
+    "42eb500a3f3714a33e2dbf236b1d84f7": {
+        "page_script_hash": "42eb500a3f3714a33e2dbf236b1d84f7",
+        "page_name": "Dermotologist",
+        "icon": "",
+        "script_path": "D:\\DigitalDoctor\\pages\\Dermotologist.py"
+    },
+    "0d153427122e4aaef07cf812c148b195": {
+        "page_script_hash": "0d153427122e4aaef07cf812c148b195",
+        "page_name": "Diabatics_Record",
+        "icon": "",
+        "script_path": "D:\\DigitalDoctor\\pages\\Diabatics_Record.py"
+    },
+    "6751c984c88456827bb7db7d772bfcb2": {
+        "page_script_hash": "6751c984c88456827bb7db7d772bfcb2",
+        "page_name": "patient_analysis",
+        "icon": "",
+        "script_path": "D:\\DigitalDoctor\\pages\\patient_analysis.py"
+    },
+    "3b0434960918adf796c458e41e78a647": {
+        "page_script_hash": "3b0434960918adf796c458e41e78a647",
+        "page_name": "Pharma_informatics",
+        "icon": "",
+        "script_path": "D:\\DigitalDoctor\\pages\\Pharma_informatics.py"
+    },
+    "0c2e55ee5d17fde384d4d01e2fb0d2ac": {
+        "page_script_hash": "0c2e55ee5d17fde384d4d01e2fb0d2ac",
+        "page_name": "psychotherapy_doctor",
+        "icon": "",
+        "script_path": "D:\\DigitalDoctor\\pages\\psychotherapy_doctor.py"
+    },
+    "a662611a36b3bec937584c05477e4baa": {
+        "page_script_hash": "a662611a36b3bec937584c05477e4baa",
+        "page_name": "symptom_disease",
+        "icon": "",
+        "script_path": "D:\\DigitalDoctor\\pages\\symptom_disease.py"
+    },
+    "48d94c00f13e5bb7993d4ef78219df11": {
+        "page_script_hash": "48d94c00f13e5bb7993d4ef78219df11",
+        "page_name": "Voice_Assistant",
+        "icon": "",
+        "script_path": "D:\\DigitalDoctor\\pages\\Voice_Assistant.py"
+    },
+    "5bfa233ba88a73174fa6657deeb3d2c7": {
+        "page_script_hash": "5bfa233ba88a73174fa6657deeb3d2c7",
+        "page_name": "X-ray_image_analysis",
+        "icon": "",
+        "script_path": "D:\\DigitalDoctor\\pages\\X-ray_image_analysis.py"
+    }
+}

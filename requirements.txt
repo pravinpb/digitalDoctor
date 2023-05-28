@@ -1,0 +1,11 @@
+streamlit
+streamlit_option_menu
+st_clickable_images
+translate
+beautifulsoup4
+playsound
+yolov5
+sqlite3
+deepface
+pyautogui
+people_also_ask
