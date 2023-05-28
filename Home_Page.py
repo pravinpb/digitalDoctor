@@ -12,6 +12,7 @@ from st_clickable_images import clickable_images
 
 # push test
 
+# test2
 st.set_page_config(page_title="Home_Page",page_icon="💫")
 
 hide_st_style = """
